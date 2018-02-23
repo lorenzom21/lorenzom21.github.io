@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+  <head>    
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>Testing Pie Chart</title>
+    <script type="text/javascript" src="./d3/d3.v2.js"></script>
+    <script type="text/javascript" src="./underscore-min.js"></script>
+
+    <style type="text/css">
+        .slice text {
+            font-size: 16pt;
+            font-family: Arial;
+        }   
+    </style>
+  </head>
+  <body>
+   <script type="text/javascript">
+
+   // var data;
+   //  d3.json("./presCand.php", function(json) {
+   //      console.log(json);
+   //      data = json
+   //  });
+
+   //   console.log(data);
+
+
+
+
+    var w = 1000,                        //width
+    h = 700,                            //height
+    r = 300,                            //radius
+    percentInnerR = .8;
+
+    color = d3.scale.category20c();     //builtin range of colors
+
+    data = [{"key":"Agribusiness", "label":"Agribiz"}, 
+            {"key":"Candidate", "label":"Self"}, 
+            {"key":"Communic_Electronics", "label":"Electronics"},
+            {"key":"Construction", "label":"Construction"}, 
+            {"key":"Defense", "label":"Defense"}, 
+            {"key":"Energy_Nat_Resource", "label":"Energy"},
+            {"key":"Finance_Insur_RealEst", "label":"Finance"}, 
+            {"key":"Health", "label":"Health"}, 
+            {"key":"Ideology_Single_Issue", "label":"Single-Issues"},
+            {"key":"Committees", "label":"Party Comm."}, 
+            {"key":"Labor", "label":"Labor"}, 
+            {"key":"Lawyers_Lobbyists", "label":"Lawyers"},
+            {"key":"Misc_Business", "label":"Misc. Business"}, 
+            {"key":"Non_contribution", "label":"Small Donations"},
+            {"key":"Transportation", "label":"Transport"}, 
+            {"key":"Other", "label":"Other"}];
+
+    _.map(data, function(sector){  return sector.value = 6.25; });
+
+    var incrementAmount = 2 * Math.PI / data.length;
+    var radians = incrementAmount / 2;
+    for (var i = 0; i < data.length; i++) {
+
+        data[i].radians = radians;
+        radians = radians + incrementAmount;
+    }
+    
+    console.log(data);
+
+    var xoffset = 200;
+    var yoffset = 50;
+
+    var xtranslate = r + xoffset;
+    var ytranslate = r + yoffset;
+
+    var vis = d3.select("body")
+        .append("svg:svg")              //create the SVG element inside the <body>
+        .data([data])                   //associate our data with the document
+            .attr("width", w)           //set the width and height of our visualization (these will be attributes of the <svg> tag
+            .attr("height", h)
+        .append("svg:g")                //make a group to hold our pie chart
+            .attr("transform", "translate(" + xtranslate + "," + ytranslate + ")")    //move the center of the pie chart from 0, 0 to radius, radius
+            //  .attr("d", 'M0,200A200,200 0 1,1 0,-200A200,200 0 1,1 0,200M0,120A120,120 0 1,0 0,-120A120,120 0 1,0 0,120Z');
+
+
+    var arc = d3.svg.arc().innerRadius(r * percentInnerR).outerRadius(r);
+
+    var pie = d3.layout.pie()           //this will create arc data for us given a list of values
+        .value(function(d) { return d.value; });    //we must tell it out to access the value of each element in our data array
+
+    var arcs = vis.selectAll("g.slice")     //this selects all <g> elements with class slice (there aren't any yet)
+        .data(pie)                          //associate the generated pie data (an array of arcs, each having startAngle, endAngle and value properties) 
+        .enter()                            //this will create <g> elements for every "extra" data element that should be associated with a selection. The result is creating a <g> for every object in the data array
+            .append("svg:g")                //create a group to hold each slice (we will have a <path> and a <text> element associated with each slice)
+                .attr("class", "slice");    //allow us to style things in the slices (like text)
+
+        arcs.append("svg:path")
+                .attr("fill", function(d, i) { return color(i); } ) //set the color for each slice to be chosen from the color function defined above
+                .attr("d", arc);                                    //this creates the actual SVG path using the associated data (pie) with the arc drawing function
+
+        arcs.append("svg:text")  
+                .attr("class","sectorlabels")                                   //add a key to each slice
+                .attr("transform", function(d,i) {                    //set the key's origin to the center of the arc
+                //we have to make sure to set these before calling arc.centroid
+                d.innerRadius = 0;
+                d.outerRadius = r;                               
+
+                function startAngle(d) {
+                  //console.log(d.startAngle);
+                  return d.startAngle;
+                }
+
+                // SOH CAH TOA
+                var xcenter = r/2 + xoffset; // Keep these separate as they may be different.
+                var ycenter = r/2 + yoffset;
+
+                var radian = data[i].radians;
+                var xtext = r * Math.cos(radian - Math.PI/2);
+                var ytext = r * Math.sin(radian - Math.PI/2);
+                var point = new Array();
+                point[0] = xtext;
+                point[1] = ytext;
+                console.log("POINT " + point + " CENT " + arc.centroid(d));
+        
+                return "translate(" + point + ")";        //this gives us a pair of coordinates like [50, 50]
+            })
+            .attr("text-anchor", function(d, i) { 
+                  //  return "middle";
+                console.log(data[i].radians + " " + data[i].label);
+                var radians = data[i].radians
+                if (radians < Math.PI) {
+                      //console.log("START");
+
+                    //console.log("END");
+                    return "start";
+                }
+                else {
+                    return "end";
+                };
+            })                          //center the text on it's origin
+            //data[i].key
+            //d3.round((d.startAngle + d.endAngle) / 2,2);
+            .text(function(d, i) { return data[i].label });        //get the key from our original data array
+
+// POSSIBLE ANIMATION
+/*
+  var paths = arcs.append("path")
+    .attr("fill", function(d, i) {return color(i); });
+
+  paths.transition()
+    .duration(1000)
+    .attrTween("d", tweenPie);
+
+  function tweenPie(b) {
+    b.innerRadius = r * .6;
+    var i = d3.interpolate({startAngle: 0, endAngle: -0}, b);
+    return function(t) {
+      return arc(i(t));
+    };
+  }
+   */   
+
+// Reorders the labels to be ontop of the pie chart
+    var sectorlabels = document.getElementsByClassName("sectorlabels");
+    console.log(sectorlabels);
+    _.each(sectorlabels,function(sectorLabel){
+            sectorLabel.parentNode.appendChild(sectorLabel);
+            console.log(sectorLabel);
+
+    });
+
+
+    </script>
+
+
+</body>
+</html>

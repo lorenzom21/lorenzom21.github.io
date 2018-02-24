@@ -3,7 +3,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1856,
+    "WAFER_ID": 1,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 328,
     "CLASS_NUMBER": 52,
@@ -13,7 +13,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1857,
+    "WAFER_ID": 2,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 420,
     "CLASS_NUMBER": 6,
@@ -23,7 +23,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1858,
+    "WAFER_ID": 3,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 446,
     "CLASS_NUMBER": 2,
@@ -33,7 +33,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1859,
+    "WAFER_ID": 4,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 460,
     "CLASS_NUMBER": 12,
@@ -43,7 +43,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1860,
+    "WAFER_ID": 5,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 467,
     "CLASS_NUMBER": 52,
@@ -53,7 +53,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1861,
+    "WAFER_ID": 6,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 523,
     "CLASS_NUMBER": 52,
@@ -63,7 +63,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1862,
+    "WAFER_ID": 7,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 563,
     "CLASS_NUMBER": 2,
@@ -73,7 +73,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1863,
+    "WAFER_ID": 8,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 641,
     "CLASS_NUMBER": 2,
@@ -83,7 +83,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1864,
+    "WAFER_ID": 9,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 663,
     "CLASS_NUMBER": 52,
@@ -93,7 +93,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1865,
+    "WAFER_ID": 10,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 718,
     "CLASS_NUMBER": 2,
@@ -103,7 +103,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1866,
+    "WAFER_ID": 11,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 753,
     "CLASS_NUMBER": 47,
@@ -113,7 +113,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1867,
+    "WAFER_ID": 12,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 758,
     "CLASS_NUMBER": 47,
@@ -123,7 +123,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1868,
+    "WAFER_ID": 13,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 814,
     "CLASS_NUMBER": 2,
@@ -133,7 +133,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1869,
+    "WAFER_ID": 14,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 867,
     "CLASS_NUMBER": 2,
@@ -143,7 +143,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1870,
+    "WAFER_ID": 15,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 883,
     "CLASS_NUMBER": 18,
@@ -153,7 +153,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1871,
+    "WAFER_ID": 16,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 920,
     "CLASS_NUMBER": 9,
@@ -163,7 +163,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1872,
+    "WAFER_ID": 17,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 939,
     "CLASS_NUMBER": 47,
@@ -173,7 +173,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1873,
+    "WAFER_ID": 18,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1026,
     "CLASS_NUMBER": 12,
@@ -183,7 +183,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1874,
+    "WAFER_ID": 19,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1050,
     "CLASS_NUMBER": 9,
@@ -193,7 +193,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1875,
+    "WAFER_ID": 20,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1071,
     "CLASS_NUMBER": 52,
@@ -203,7 +203,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1876,
+    "WAFER_ID": 21,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1094,
     "CLASS_NUMBER": 47,
@@ -213,7 +213,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1877,
+    "WAFER_ID": 22,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1109,
     "CLASS_NUMBER": 47,
@@ -223,7 +223,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1878,
+    "WAFER_ID": 23,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1139,
     "CLASS_NUMBER": 2,
@@ -233,7 +233,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1879,
+    "WAFER_ID": 24,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1145,
     "CLASS_NUMBER": 12,
@@ -243,7 +243,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1880,
+    "WAFER_ID": 25,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1163,
     "CLASS_NUMBER": 52,
@@ -253,7 +253,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1881,
+    "WAFER_ID": 26,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1179,
     "CLASS_NUMBER": 52,
@@ -263,7 +263,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1882,
+    "WAFER_ID": 27,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1198,
     "CLASS_NUMBER": 47,
@@ -273,7 +273,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1883,
+    "WAFER_ID": 28,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1223,
     "CLASS_NUMBER": 2,
@@ -283,7 +283,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1884,
+    "WAFER_ID": 29,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1228,
     "CLASS_NUMBER": 2,
@@ -293,7 +293,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1885,
+    "WAFER_ID": 30,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1235,
     "CLASS_NUMBER": 52,
@@ -303,7 +303,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1886,
+    "WAFER_ID": 31,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1256,
     "CLASS_NUMBER": 2,
@@ -313,7 +313,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1887,
+    "WAFER_ID": 32,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1261,
     "CLASS_NUMBER": 52,
@@ -323,7 +323,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1888,
+    "WAFER_ID": 33,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1299,
     "CLASS_NUMBER": 12,
@@ -333,7 +333,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1889,
+    "WAFER_ID": 34,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1303,
     "CLASS_NUMBER": 2,
@@ -343,7 +343,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1890,
+    "WAFER_ID": 35,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1310,
     "CLASS_NUMBER": 2,
@@ -353,7 +353,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1891,
+    "WAFER_ID": 36,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1333,
     "CLASS_NUMBER": 52,
@@ -363,7 +363,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1892,
+    "WAFER_ID": 37,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1558,
     "CLASS_NUMBER": 12,
@@ -373,7 +373,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1893,
+    "WAFER_ID": 38,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1700,
     "CLASS_NUMBER": 2,
@@ -383,7 +383,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1894,
+    "WAFER_ID": 39,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2952,
     "CLASS_NUMBER": 12,
@@ -393,7 +393,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1895,
+    "WAFER_ID": 40,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2954,
     "CLASS_NUMBER": 2,
@@ -403,7 +403,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1896,
+    "WAFER_ID": 41,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 3679,
     "CLASS_NUMBER": 47,
@@ -413,7 +413,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1897,
+    "WAFER_ID": 42,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 3693,
     "CLASS_NUMBER": 47,
@@ -423,7 +423,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1898,
+    "WAFER_ID": 43,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 3980,
     "CLASS_NUMBER": 2,
@@ -433,7 +433,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1899,
+    "WAFER_ID": 44,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 4213,
     "CLASS_NUMBER": 2,
@@ -443,7 +443,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1900,
+    "WAFER_ID": 45,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 4469,
     "CLASS_NUMBER": 47,
@@ -453,7 +453,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1901,
+    "WAFER_ID": 46,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 4473,
     "CLASS_NUMBER": 52,
@@ -463,7 +463,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1902,
+    "WAFER_ID": 47,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 4527,
     "CLASS_NUMBER": 12,
@@ -473,7 +473,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1903,
+    "WAFER_ID": 48,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 4711,
     "CLASS_NUMBER": 47,
@@ -483,7 +483,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1904,
+    "WAFER_ID": 49,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 4756,
     "CLASS_NUMBER": 6,
@@ -493,7 +493,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1905,
+    "WAFER_ID": 50,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 4762,
     "CLASS_NUMBER": 2,
@@ -503,7 +503,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1906,
+    "WAFER_ID": 51,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1,
     "CLASS_NUMBER": 41,
@@ -513,7 +513,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1907,
+    "WAFER_ID": 52,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2,
     "CLASS_NUMBER": 47,
@@ -523,7 +523,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1908,
+    "WAFER_ID": 53,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 4,
     "CLASS_NUMBER": 299,
@@ -533,7 +533,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1909,
+    "WAFER_ID": 54,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 6,
     "CLASS_NUMBER": 41,
@@ -543,7 +543,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1910,
+    "WAFER_ID": 55,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 7,
     "CLASS_NUMBER": 41,
@@ -553,7 +553,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1911,
+    "WAFER_ID": 56,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 9,
     "CLASS_NUMBER": 41,
@@ -563,7 +563,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1912,
+    "WAFER_ID": 57,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 10,
     "CLASS_NUMBER": 41,
@@ -573,7 +573,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1913,
+    "WAFER_ID": 58,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 11,
     "CLASS_NUMBER": 299,
@@ -583,7 +583,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1914,
+    "WAFER_ID": 59,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 12,
     "CLASS_NUMBER": 299,
@@ -593,7 +593,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1915,
+    "WAFER_ID": 60,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 17,
     "CLASS_NUMBER": 6,
@@ -603,7 +603,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1916,
+    "WAFER_ID": 61,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 28,
     "CLASS_NUMBER": 6,
@@ -613,7 +613,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1917,
+    "WAFER_ID": 62,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 29,
     "CLASS_NUMBER": 1,
@@ -623,7 +623,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1918,
+    "WAFER_ID": 63,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 30,
     "CLASS_NUMBER": 6,
@@ -633,7 +633,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1919,
+    "WAFER_ID": 64,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 32,
     "CLASS_NUMBER": 12,
@@ -643,7 +643,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1920,
+    "WAFER_ID": 65,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 33,
     "CLASS_NUMBER": 299,
@@ -653,7 +653,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1921,
+    "WAFER_ID": 66,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 34,
     "CLASS_NUMBER": 41,
@@ -663,7 +663,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1922,
+    "WAFER_ID": 67,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 42,
     "CLASS_NUMBER": 299,
@@ -673,7 +673,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1923,
+    "WAFER_ID": 68,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 44,
     "CLASS_NUMBER": 6,
@@ -683,7 +683,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1924,
+    "WAFER_ID": 69,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 136,
     "CLASS_NUMBER": 6,
@@ -693,7 +693,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1925,
+    "WAFER_ID": 70,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 138,
     "CLASS_NUMBER": 6,
@@ -703,7 +703,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1926,
+    "WAFER_ID": 71,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 144,
     "CLASS_NUMBER": 6,
@@ -713,7 +713,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1927,
+    "WAFER_ID": 72,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 244,
     "CLASS_NUMBER": 6,
@@ -723,7 +723,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1928,
+    "WAFER_ID": 73,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 245,
     "CLASS_NUMBER": 299,
@@ -733,7 +733,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1929,
+    "WAFER_ID": 74,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 247,
     "CLASS_NUMBER": 299,
@@ -743,7 +743,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1930,
+    "WAFER_ID": 75,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 257,
     "CLASS_NUMBER": 6,
@@ -753,7 +753,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1931,
+    "WAFER_ID": 76,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 263,
     "CLASS_NUMBER": 6,
@@ -763,7 +763,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1932,
+    "WAFER_ID": 77,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 265,
     "CLASS_NUMBER": 52,
@@ -773,7 +773,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1933,
+    "WAFER_ID": 78,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 267,
     "CLASS_NUMBER": 2,
@@ -783,7 +783,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1934,
+    "WAFER_ID": 79,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 269,
     "CLASS_NUMBER": 6,
@@ -793,7 +793,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1935,
+    "WAFER_ID": 80,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 271,
     "CLASS_NUMBER": 6,
@@ -803,7 +803,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1936,
+    "WAFER_ID": 81,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 274,
     "CLASS_NUMBER": 6,
@@ -813,7 +813,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1937,
+    "WAFER_ID": 82,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 418,
     "CLASS_NUMBER": 299,
@@ -823,7 +823,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1938,
+    "WAFER_ID": 83,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 420,
     "CLASS_NUMBER": 6,
@@ -833,7 +833,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1939,
+    "WAFER_ID": 84,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 421,
     "CLASS_NUMBER": 299,
@@ -843,7 +843,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1940,
+    "WAFER_ID": 85,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 423,
     "CLASS_NUMBER": 299,
@@ -853,7 +853,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1941,
+    "WAFER_ID": 86,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 426,
     "CLASS_NUMBER": 299,
@@ -863,7 +863,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1942,
+    "WAFER_ID": 87,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 437,
     "CLASS_NUMBER": 41,
@@ -873,7 +873,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1943,
+    "WAFER_ID": 88,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 439,
     "CLASS_NUMBER": 41,
@@ -883,7 +883,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1944,
+    "WAFER_ID": 89,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 440,
     "CLASS_NUMBER": 299,
@@ -893,7 +893,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1945,
+    "WAFER_ID": 90,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 441,
     "CLASS_NUMBER": 6,
@@ -903,7 +903,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1946,
+    "WAFER_ID": 91,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 442,
     "CLASS_NUMBER": 6,
@@ -913,7 +913,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1947,
+    "WAFER_ID": 92,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 443,
     "CLASS_NUMBER": 41,
@@ -923,7 +923,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1948,
+    "WAFER_ID": 93,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 444,
     "CLASS_NUMBER": 299,
@@ -933,7 +933,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1949,
+    "WAFER_ID": 94,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 452,
     "CLASS_NUMBER": 6,
@@ -943,7 +943,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1950,
+    "WAFER_ID": 95,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 453,
     "CLASS_NUMBER": 299,
@@ -953,7 +953,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1951,
+    "WAFER_ID": 96,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 454,
     "CLASS_NUMBER": 41,
@@ -963,7 +963,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1952,
+    "WAFER_ID": 97,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 455,
     "CLASS_NUMBER": 299,
@@ -973,7 +973,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1953,
+    "WAFER_ID": 98,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 457,
     "CLASS_NUMBER": 47,
@@ -983,7 +983,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1954,
+    "WAFER_ID": 99,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 458,
     "CLASS_NUMBER": 52,
@@ -993,7 +993,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1955,
+    "WAFER_ID": 100,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 459,
     "CLASS_NUMBER": 47,
@@ -1003,7 +1003,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1956,
+    "WAFER_ID": 101,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 231,
     "CLASS_NUMBER": 41,
@@ -1013,7 +1013,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1957,
+    "WAFER_ID": 102,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 432,
     "CLASS_NUMBER": 299,
@@ -1023,7 +1023,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1958,
+    "WAFER_ID": 103,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 433,
     "CLASS_NUMBER": 299,
@@ -1033,7 +1033,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1959,
+    "WAFER_ID": 104,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 434,
     "CLASS_NUMBER": 6,
@@ -1043,7 +1043,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1960,
+    "WAFER_ID": 105,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 435,
     "CLASS_NUMBER": 52,
@@ -1053,7 +1053,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1961,
+    "WAFER_ID": 106,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 437,
     "CLASS_NUMBER": 2,
@@ -1063,7 +1063,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1962,
+    "WAFER_ID": 107,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 439,
     "CLASS_NUMBER": 9,
@@ -1073,7 +1073,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1963,
+    "WAFER_ID": 108,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 448,
     "CLASS_NUMBER": 2,
@@ -1083,7 +1083,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1964,
+    "WAFER_ID": 109,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 449,
     "CLASS_NUMBER": 6,
@@ -1093,7 +1093,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1965,
+    "WAFER_ID": 110,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 454,
     "CLASS_NUMBER": 52,
@@ -1103,7 +1103,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1966,
+    "WAFER_ID": 111,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 462,
     "CLASS_NUMBER": 299,
@@ -1113,7 +1113,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1967,
+    "WAFER_ID": 112,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 465,
     "CLASS_NUMBER": 2,
@@ -1123,7 +1123,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1968,
+    "WAFER_ID": 113,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 466,
     "CLASS_NUMBER": 2,
@@ -1133,7 +1133,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1969,
+    "WAFER_ID": 114,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 467,
     "CLASS_NUMBER": 299,
@@ -1143,7 +1143,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1970,
+    "WAFER_ID": 115,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 522,
     "CLASS_NUMBER": 6,
@@ -1153,7 +1153,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1971,
+    "WAFER_ID": 116,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 523,
     "CLASS_NUMBER": 52,
@@ -1163,7 +1163,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1972,
+    "WAFER_ID": 117,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 525,
     "CLASS_NUMBER": 12,
@@ -1173,7 +1173,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1973,
+    "WAFER_ID": 118,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 527,
     "CLASS_NUMBER": 12,
@@ -1183,7 +1183,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1974,
+    "WAFER_ID": 119,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 554,
     "CLASS_NUMBER": 1,
@@ -1193,7 +1193,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1975,
+    "WAFER_ID": 120,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 555,
     "CLASS_NUMBER": 41,
@@ -1203,7 +1203,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1976,
+    "WAFER_ID": 121,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 556,
     "CLASS_NUMBER": 2,
@@ -1213,7 +1213,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1977,
+    "WAFER_ID": 122,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 559,
     "CLASS_NUMBER": 2,
@@ -1223,7 +1223,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1978,
+    "WAFER_ID": 123,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 561,
     "CLASS_NUMBER": 2,
@@ -1233,7 +1233,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1979,
+    "WAFER_ID": 124,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 562,
     "CLASS_NUMBER": 2,
@@ -1243,7 +1243,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1980,
+    "WAFER_ID": 125,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 570,
     "CLASS_NUMBER": 52,
@@ -1253,7 +1253,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1981,
+    "WAFER_ID": 126,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 594,
     "CLASS_NUMBER": 6,
@@ -1263,7 +1263,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1982,
+    "WAFER_ID": 127,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 595,
     "CLASS_NUMBER": 41,
@@ -1273,7 +1273,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1983,
+    "WAFER_ID": 128,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1313,
     "CLASS_NUMBER": 6,
@@ -1283,7 +1283,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1984,
+    "WAFER_ID": 129,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1314,
     "CLASS_NUMBER": 6,
@@ -1293,7 +1293,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1985,
+    "WAFER_ID": 130,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1325,
     "CLASS_NUMBER": 6,
@@ -1303,7 +1303,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1986,
+    "WAFER_ID": 131,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1360,
     "CLASS_NUMBER": 6,
@@ -1313,7 +1313,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1987,
+    "WAFER_ID": 132,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1368,
     "CLASS_NUMBER": 299,
@@ -1323,7 +1323,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1988,
+    "WAFER_ID": 133,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1376,
     "CLASS_NUMBER": 12,
@@ -1333,7 +1333,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1989,
+    "WAFER_ID": 134,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1393,
     "CLASS_NUMBER": 6,
@@ -1343,7 +1343,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1990,
+    "WAFER_ID": 135,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1468,
     "CLASS_NUMBER": 2,
@@ -1353,7 +1353,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1991,
+    "WAFER_ID": 136,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1469,
     "CLASS_NUMBER": 41,
@@ -1363,7 +1363,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1992,
+    "WAFER_ID": 137,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1478,
     "CLASS_NUMBER": 52,
@@ -1373,7 +1373,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1993,
+    "WAFER_ID": 138,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1486,
     "CLASS_NUMBER": 12,
@@ -1383,7 +1383,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1994,
+    "WAFER_ID": 139,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1488,
     "CLASS_NUMBER": 52,
@@ -1393,7 +1393,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1995,
+    "WAFER_ID": 140,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1490,
     "CLASS_NUMBER": 6,
@@ -1403,7 +1403,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1996,
+    "WAFER_ID": 141,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1492,
     "CLASS_NUMBER": 6,
@@ -1413,7 +1413,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1997,
+    "WAFER_ID": 142,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1493,
     "CLASS_NUMBER": 299,
@@ -1423,7 +1423,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1998,
+    "WAFER_ID": 143,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1699,
     "CLASS_NUMBER": 6,
@@ -1433,7 +1433,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 1999,
+    "WAFER_ID": 144,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1703,
     "CLASS_NUMBER": 299,
@@ -1443,7 +1443,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2000,
+    "WAFER_ID": 145,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1704,
     "CLASS_NUMBER": 299,
@@ -1453,7 +1453,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2001,
+    "WAFER_ID": 146,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1705,
     "CLASS_NUMBER": 299,
@@ -1463,7 +1463,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2002,
+    "WAFER_ID": 147,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1706,
     "CLASS_NUMBER": 41,
@@ -1473,7 +1473,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2003,
+    "WAFER_ID": 148,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1707,
     "CLASS_NUMBER": 6,
@@ -1483,7 +1483,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2004,
+    "WAFER_ID": 149,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2526,
     "CLASS_NUMBER": 41,
@@ -1493,7 +1493,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2005,
+    "WAFER_ID": 150,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2530,
     "CLASS_NUMBER": 9,
@@ -1503,7 +1503,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2006,
+    "WAFER_ID": 151,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1,
     "CLASS_NUMBER": 299,
@@ -1513,7 +1513,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2007,
+    "WAFER_ID": 152,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 3,
     "CLASS_NUMBER": 6,
@@ -1523,7 +1523,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2008,
+    "WAFER_ID": 153,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 4,
     "CLASS_NUMBER": 6,
@@ -1533,7 +1533,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2009,
+    "WAFER_ID": 154,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 10,
     "CLASS_NUMBER": 18,
@@ -1543,7 +1543,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2010,
+    "WAFER_ID": 155,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 19,
     "CLASS_NUMBER": 2,
@@ -1553,7 +1553,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2011,
+    "WAFER_ID": 156,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 20,
     "CLASS_NUMBER": 41,
@@ -1563,7 +1563,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2012,
+    "WAFER_ID": 157,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 35,
     "CLASS_NUMBER": 2,
@@ -1573,7 +1573,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2013,
+    "WAFER_ID": 158,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 36,
     "CLASS_NUMBER": 2,
@@ -1583,7 +1583,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2014,
+    "WAFER_ID": 159,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 52,
     "CLASS_NUMBER": 299,
@@ -1593,7 +1593,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2015,
+    "WAFER_ID": 160,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 57,
     "CLASS_NUMBER": 299,
@@ -1603,7 +1603,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2016,
+    "WAFER_ID": 161,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 59,
     "CLASS_NUMBER": 52,
@@ -1613,7 +1613,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2017,
+    "WAFER_ID": 162,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 60,
     "CLASS_NUMBER": 6,
@@ -1623,7 +1623,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2018,
+    "WAFER_ID": 163,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 61,
     "CLASS_NUMBER": 52,
@@ -1633,7 +1633,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2019,
+    "WAFER_ID": 164,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 68,
     "CLASS_NUMBER": 6,
@@ -1643,7 +1643,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2020,
+    "WAFER_ID": 165,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 268,
     "CLASS_NUMBER": 12,
@@ -1653,7 +1653,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2021,
+    "WAFER_ID": 166,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 271,
     "CLASS_NUMBER": 299,
@@ -1663,7 +1663,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2022,
+    "WAFER_ID": 167,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 358,
     "CLASS_NUMBER": 6,
@@ -1673,7 +1673,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2023,
+    "WAFER_ID": 168,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 377,
     "CLASS_NUMBER": 6,
@@ -1683,7 +1683,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2024,
+    "WAFER_ID": 169,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 408,
     "CLASS_NUMBER": 6,
@@ -1693,7 +1693,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2025,
+    "WAFER_ID": 170,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 411,
     "CLASS_NUMBER": 2,
@@ -1703,7 +1703,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2026,
+    "WAFER_ID": 171,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 430,
     "CLASS_NUMBER": 6,
@@ -1713,7 +1713,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2027,
+    "WAFER_ID": 172,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 438,
     "CLASS_NUMBER": 2,
@@ -1723,7 +1723,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2028,
+    "WAFER_ID": 173,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 455,
     "CLASS_NUMBER": 2,
@@ -1733,7 +1733,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2029,
+    "WAFER_ID": 174,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 461,
     "CLASS_NUMBER": 299,
@@ -1743,7 +1743,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2030,
+    "WAFER_ID": 175,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 464,
     "CLASS_NUMBER": 6,
@@ -1753,7 +1753,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2031,
+    "WAFER_ID": 176,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 465,
     "CLASS_NUMBER": 6,
@@ -1763,7 +1763,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2032,
+    "WAFER_ID": 177,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 491,
     "CLASS_NUMBER": 6,
@@ -1773,7 +1773,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2033,
+    "WAFER_ID": 178,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 496,
     "CLASS_NUMBER": 299,
@@ -1783,7 +1783,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2034,
+    "WAFER_ID": 179,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 531,
     "CLASS_NUMBER": 6,
@@ -1793,7 +1793,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2035,
+    "WAFER_ID": 180,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 648,
     "CLASS_NUMBER": 6,
@@ -1803,7 +1803,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2036,
+    "WAFER_ID": 181,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 649,
     "CLASS_NUMBER": 47,
@@ -1813,7 +1813,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2037,
+    "WAFER_ID": 182,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 650,
     "CLASS_NUMBER": 299,
@@ -1823,7 +1823,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2038,
+    "WAFER_ID": 183,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 651,
     "CLASS_NUMBER": 12,
@@ -1833,7 +1833,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2039,
+    "WAFER_ID": 184,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 652,
     "CLASS_NUMBER": 41,
@@ -1843,7 +1843,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2040,
+    "WAFER_ID": 185,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 661,
     "CLASS_NUMBER": 47,
@@ -1853,7 +1853,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2041,
+    "WAFER_ID": 186,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 669,
     "CLASS_NUMBER": 52,
@@ -1863,7 +1863,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2042,
+    "WAFER_ID": 187,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 670,
     "CLASS_NUMBER": 299,
@@ -1873,7 +1873,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2043,
+    "WAFER_ID": 188,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 734,
     "CLASS_NUMBER": 52,
@@ -1883,7 +1883,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2044,
+    "WAFER_ID": 189,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 735,
     "CLASS_NUMBER": 2,
@@ -1893,7 +1893,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2045,
+    "WAFER_ID": 190,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 738,
     "CLASS_NUMBER": 2,
@@ -1903,7 +1903,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2046,
+    "WAFER_ID": 191,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 741,
     "CLASS_NUMBER": 2,
@@ -1913,7 +1913,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2047,
+    "WAFER_ID": 192,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 743,
     "CLASS_NUMBER": 52,
@@ -1923,7 +1923,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2048,
+    "WAFER_ID": 193,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 744,
     "CLASS_NUMBER": 52,
@@ -1933,7 +1933,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2049,
+    "WAFER_ID": 194,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 751,
     "CLASS_NUMBER": 18,
@@ -1943,7 +1943,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2050,
+    "WAFER_ID": 195,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 752,
     "CLASS_NUMBER": 47,
@@ -1953,7 +1953,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2051,
+    "WAFER_ID": 196,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 753,
     "CLASS_NUMBER": 299,
@@ -1963,7 +1963,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2052,
+    "WAFER_ID": 197,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 754,
     "CLASS_NUMBER": 299,
@@ -1973,7 +1973,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2053,
+    "WAFER_ID": 198,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 756,
     "CLASS_NUMBER": 299,
@@ -1983,7 +1983,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2054,
+    "WAFER_ID": 199,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 757,
     "CLASS_NUMBER": 6,
@@ -1993,7 +1993,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2055,
+    "WAFER_ID": 200,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 759,
     "CLASS_NUMBER": 6,
@@ -2003,7 +2003,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2056,
+    "WAFER_ID": 201,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2,
     "CLASS_NUMBER": 6,
@@ -2013,7 +2013,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2057,
+    "WAFER_ID": 202,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 4,
     "CLASS_NUMBER": 6,
@@ -2023,7 +2023,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2058,
+    "WAFER_ID": 203,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 13,
     "CLASS_NUMBER": 1,
@@ -2033,7 +2033,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2059,
+    "WAFER_ID": 204,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 20,
     "CLASS_NUMBER": 6,
@@ -2043,7 +2043,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2060,
+    "WAFER_ID": 205,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 58,
     "CLASS_NUMBER": 6,
@@ -2053,7 +2053,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2061,
+    "WAFER_ID": 206,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 59,
     "CLASS_NUMBER": 2,
@@ -2063,7 +2063,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2062,
+    "WAFER_ID": 207,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 104,
     "CLASS_NUMBER": 2,
@@ -2073,7 +2073,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2063,
+    "WAFER_ID": 208,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 200,
     "CLASS_NUMBER": 6,
@@ -2083,7 +2083,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2064,
+    "WAFER_ID": 209,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 203,
     "CLASS_NUMBER": 52,
@@ -2093,7 +2093,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2065,
+    "WAFER_ID": 210,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 226,
     "CLASS_NUMBER": 52,
@@ -2103,7 +2103,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2066,
+    "WAFER_ID": 211,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 726,
     "CLASS_NUMBER": 52,
@@ -2113,7 +2113,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2067,
+    "WAFER_ID": 212,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 817,
     "CLASS_NUMBER": 52,
@@ -2123,7 +2123,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2068,
+    "WAFER_ID": 213,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 850,
     "CLASS_NUMBER": 52,
@@ -2133,7 +2133,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2069,
+    "WAFER_ID": 214,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 906,
     "CLASS_NUMBER": 41,
@@ -2143,7 +2143,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2070,
+    "WAFER_ID": 215,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 928,
     "CLASS_NUMBER": 52,
@@ -2153,7 +2153,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2071,
+    "WAFER_ID": 216,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 935,
     "CLASS_NUMBER": 52,
@@ -2163,7 +2163,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2072,
+    "WAFER_ID": 217,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 940,
     "CLASS_NUMBER": 2,
@@ -2173,7 +2173,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2073,
+    "WAFER_ID": 218,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 948,
     "CLASS_NUMBER": 52,
@@ -2183,7 +2183,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2074,
+    "WAFER_ID": 219,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 974,
     "CLASS_NUMBER": 52,
@@ -2193,7 +2193,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2075,
+    "WAFER_ID": 220,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1153,
     "CLASS_NUMBER": 299,
@@ -2203,7 +2203,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2076,
+    "WAFER_ID": 221,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1154,
     "CLASS_NUMBER": 2,
@@ -2213,7 +2213,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2077,
+    "WAFER_ID": 222,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1155,
     "CLASS_NUMBER": 299,
@@ -2223,7 +2223,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2078,
+    "WAFER_ID": 223,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1157,
     "CLASS_NUMBER": 41,
@@ -2233,7 +2233,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2079,
+    "WAFER_ID": 224,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1158,
     "CLASS_NUMBER": 299,
@@ -2243,7 +2243,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2080,
+    "WAFER_ID": 225,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1159,
     "CLASS_NUMBER": 41,
@@ -2253,7 +2253,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2081,
+    "WAFER_ID": 226,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1161,
     "CLASS_NUMBER": 299,
@@ -2263,7 +2263,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2082,
+    "WAFER_ID": 227,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1163,
     "CLASS_NUMBER": 299,
@@ -2273,7 +2273,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2083,
+    "WAFER_ID": 228,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1224,
     "CLASS_NUMBER": 52,
@@ -2283,7 +2283,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2084,
+    "WAFER_ID": 229,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1744,
     "CLASS_NUMBER": 41,
@@ -2293,7 +2293,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2085,
+    "WAFER_ID": 230,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1747,
     "CLASS_NUMBER": 6,
@@ -2303,7 +2303,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2086,
+    "WAFER_ID": 231,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1844,
     "CLASS_NUMBER": 299,
@@ -2313,7 +2313,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2087,
+    "WAFER_ID": 232,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2017,
     "CLASS_NUMBER": 6,
@@ -2323,7 +2323,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2088,
+    "WAFER_ID": 233,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2018,
     "CLASS_NUMBER": 52,
@@ -2333,7 +2333,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2089,
+    "WAFER_ID": 234,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2111,
     "CLASS_NUMBER": 52,
@@ -2343,7 +2343,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2090,
+    "WAFER_ID": 235,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2132,
     "CLASS_NUMBER": 47,
@@ -2353,7 +2353,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2091,
+    "WAFER_ID": 236,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2138,
     "CLASS_NUMBER": 12,
@@ -2363,7 +2363,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2092,
+    "WAFER_ID": 237,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2170,
     "CLASS_NUMBER": 12,
@@ -2373,7 +2373,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2093,
+    "WAFER_ID": 238,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2326,
     "CLASS_NUMBER": 52,
@@ -2383,7 +2383,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2094,
+    "WAFER_ID": 239,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2336,
     "CLASS_NUMBER": 6,
@@ -2393,7 +2393,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2095,
+    "WAFER_ID": 240,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2370,
     "CLASS_NUMBER": 47,
@@ -2403,7 +2403,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2096,
+    "WAFER_ID": 241,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2461,
     "CLASS_NUMBER": 299,
@@ -2413,7 +2413,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2097,
+    "WAFER_ID": 242,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2544,
     "CLASS_NUMBER": 52,
@@ -2423,7 +2423,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2098,
+    "WAFER_ID": 243,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2549,
     "CLASS_NUMBER": 52,
@@ -2433,7 +2433,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2099,
+    "WAFER_ID": 244,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2552,
     "CLASS_NUMBER": 12,
@@ -2443,7 +2443,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2100,
+    "WAFER_ID": 245,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2576,
     "CLASS_NUMBER": 47,
@@ -2453,7 +2453,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2101,
+    "WAFER_ID": 246,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2579,
     "CLASS_NUMBER": 2,
@@ -2463,7 +2463,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2102,
+    "WAFER_ID": 247,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2581,
     "CLASS_NUMBER": 299,
@@ -2473,7 +2473,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2103,
+    "WAFER_ID": 248,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2584,
     "CLASS_NUMBER": 299,
@@ -2483,7 +2483,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2104,
+    "WAFER_ID": 249,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2586,
     "CLASS_NUMBER": 299,
@@ -2493,7 +2493,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 2105,
+    "WAFER_ID": 250,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2592,
     "CLASS_NUMBER": 299,
@@ -2503,7 +2503,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5382,
+    "WAFER_ID": 251,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 4,
     "CLASS_NUMBER": 6,
@@ -2513,7 +2513,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5383,
+    "WAFER_ID": 252,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 7,
     "CLASS_NUMBER": 2,
@@ -2523,7 +2523,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5384,
+    "WAFER_ID": 253,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 8,
     "CLASS_NUMBER": 2,
@@ -2533,7 +2533,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5385,
+    "WAFER_ID": 254,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 24,
     "CLASS_NUMBER": 6,
@@ -2543,7 +2543,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5386,
+    "WAFER_ID": 255,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 27,
     "CLASS_NUMBER": 41,
@@ -2553,7 +2553,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5387,
+    "WAFER_ID": 256,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 28,
     "CLASS_NUMBER": 6,
@@ -2563,7 +2563,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5388,
+    "WAFER_ID": 257,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 29,
     "CLASS_NUMBER": 6,
@@ -2573,7 +2573,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5389,
+    "WAFER_ID": 258,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 31,
     "CLASS_NUMBER": 6,
@@ -2583,7 +2583,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5390,
+    "WAFER_ID": 259,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 93,
     "CLASS_NUMBER": 6,
@@ -2593,7 +2593,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5391,
+    "WAFER_ID": 260,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 251,
     "CLASS_NUMBER": 6,
@@ -2603,7 +2603,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5392,
+    "WAFER_ID": 261,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 253,
     "CLASS_NUMBER": 6,
@@ -2613,7 +2613,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5393,
+    "WAFER_ID": 262,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 254,
     "CLASS_NUMBER": 6,
@@ -2623,7 +2623,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5394,
+    "WAFER_ID": 263,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 257,
     "CLASS_NUMBER": 6,
@@ -2633,7 +2633,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5395,
+    "WAFER_ID": 264,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 258,
     "CLASS_NUMBER": 6,
@@ -2643,7 +2643,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5396,
+    "WAFER_ID": 265,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 259,
     "CLASS_NUMBER": 6,
@@ -2653,7 +2653,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5397,
+    "WAFER_ID": 266,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 267,
     "CLASS_NUMBER": 6,
@@ -2663,7 +2663,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5398,
+    "WAFER_ID": 267,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 268,
     "CLASS_NUMBER": 6,
@@ -2673,7 +2673,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5399,
+    "WAFER_ID": 268,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 272,
     "CLASS_NUMBER": 6,
@@ -2683,7 +2683,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5400,
+    "WAFER_ID": 269,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 275,
     "CLASS_NUMBER": 6,
@@ -2693,7 +2693,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5401,
+    "WAFER_ID": 270,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 284,
     "CLASS_NUMBER": 6,
@@ -2703,7 +2703,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5402,
+    "WAFER_ID": 271,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 295,
     "CLASS_NUMBER": 6,
@@ -2713,7 +2713,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5403,
+    "WAFER_ID": 272,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 301,
     "CLASS_NUMBER": 6,
@@ -2723,7 +2723,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5404,
+    "WAFER_ID": 273,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 308,
     "CLASS_NUMBER": 6,
@@ -2733,7 +2733,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5405,
+    "WAFER_ID": 274,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 312,
     "CLASS_NUMBER": 6,
@@ -2743,7 +2743,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5406,
+    "WAFER_ID": 275,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 318,
     "CLASS_NUMBER": 6,
@@ -2753,7 +2753,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5407,
+    "WAFER_ID": 276,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 321,
     "CLASS_NUMBER": 6,
@@ -2763,7 +2763,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5408,
+    "WAFER_ID": 277,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 322,
     "CLASS_NUMBER": 6,
@@ -2773,7 +2773,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5409,
+    "WAFER_ID": 278,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 323,
     "CLASS_NUMBER": 6,
@@ -2783,7 +2783,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5410,
+    "WAFER_ID": 279,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 327,
     "CLASS_NUMBER": 6,
@@ -2793,7 +2793,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5411,
+    "WAFER_ID": 280,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 331,
     "CLASS_NUMBER": 6,
@@ -2803,7 +2803,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5412,
+    "WAFER_ID": 281,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 333,
     "CLASS_NUMBER": 6,
@@ -2813,7 +2813,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5413,
+    "WAFER_ID": 282,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 336,
     "CLASS_NUMBER": 6,
@@ -2823,7 +2823,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5414,
+    "WAFER_ID": 283,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 337,
     "CLASS_NUMBER": 6,
@@ -2833,7 +2833,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5415,
+    "WAFER_ID": 284,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 343,
     "CLASS_NUMBER": 6,
@@ -2843,7 +2843,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5416,
+    "WAFER_ID": 285,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 353,
     "CLASS_NUMBER": 6,
@@ -2853,7 +2853,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5417,
+    "WAFER_ID": 286,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 355,
     "CLASS_NUMBER": 6,
@@ -2863,7 +2863,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5418,
+    "WAFER_ID": 287,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 356,
     "CLASS_NUMBER": 6,
@@ -2873,7 +2873,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5419,
+    "WAFER_ID": 288,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 365,
     "CLASS_NUMBER": 6,
@@ -2883,7 +2883,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5420,
+    "WAFER_ID": 289,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 367,
     "CLASS_NUMBER": 6,
@@ -2893,7 +2893,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5421,
+    "WAFER_ID": 290,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 377,
     "CLASS_NUMBER": 6,
@@ -2903,7 +2903,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5422,
+    "WAFER_ID": 291,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 379,
     "CLASS_NUMBER": 6,
@@ -2913,7 +2913,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5423,
+    "WAFER_ID": 292,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 382,
     "CLASS_NUMBER": 6,
@@ -2923,7 +2923,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5424,
+    "WAFER_ID": 293,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 383,
     "CLASS_NUMBER": 6,
@@ -2933,7 +2933,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5425,
+    "WAFER_ID": 294,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 388,
     "CLASS_NUMBER": 6,
@@ -2943,7 +2943,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5426,
+    "WAFER_ID": 295,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 4,
     "CLASS_NUMBER": 41,
@@ -2953,7 +2953,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5427,
+    "WAFER_ID": 296,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 10,
     "CLASS_NUMBER": 41,
@@ -2963,7 +2963,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5428,
+    "WAFER_ID": 297,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 12,
     "CLASS_NUMBER": 2,
@@ -2973,7 +2973,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5429,
+    "WAFER_ID": 298,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 17,
     "CLASS_NUMBER": 6,
@@ -2983,7 +2983,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5430,
+    "WAFER_ID": 299,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 22,
     "CLASS_NUMBER": 6,
@@ -2993,7 +2993,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5431,
+    "WAFER_ID": 300,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 32,
     "CLASS_NUMBER": 6,
@@ -3003,7 +3003,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5432,
+    "WAFER_ID": 301,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 34,
     "CLASS_NUMBER": 6,
@@ -3013,7 +3013,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5433,
+    "WAFER_ID": 302,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 35,
     "CLASS_NUMBER": 6,
@@ -3023,7 +3023,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5434,
+    "WAFER_ID": 303,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 48,
     "CLASS_NUMBER": 6,
@@ -3033,7 +3033,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5435,
+    "WAFER_ID": 304,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 79,
     "CLASS_NUMBER": 6,
@@ -3043,7 +3043,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5436,
+    "WAFER_ID": 305,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 82,
     "CLASS_NUMBER": 6,
@@ -3053,7 +3053,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5437,
+    "WAFER_ID": 306,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 98,
     "CLASS_NUMBER": 6,
@@ -3063,7 +3063,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5438,
+    "WAFER_ID": 307,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 99,
     "CLASS_NUMBER": 6,
@@ -3073,7 +3073,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5439,
+    "WAFER_ID": 308,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 102,
     "CLASS_NUMBER": 6,
@@ -3083,7 +3083,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5440,
+    "WAFER_ID": 309,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 104,
     "CLASS_NUMBER": 6,
@@ -3093,7 +3093,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5441,
+    "WAFER_ID": 310,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 106,
     "CLASS_NUMBER": 6,
@@ -3103,7 +3103,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5442,
+    "WAFER_ID": 311,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 116,
     "CLASS_NUMBER": 6,
@@ -3113,7 +3113,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5443,
+    "WAFER_ID": 312,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 123,
     "CLASS_NUMBER": 6,
@@ -3123,7 +3123,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5444,
+    "WAFER_ID": 313,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 124,
     "CLASS_NUMBER": 6,
@@ -3133,7 +3133,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5445,
+    "WAFER_ID": 314,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 127,
     "CLASS_NUMBER": 6,
@@ -3143,7 +3143,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5446,
+    "WAFER_ID": 315,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 148,
     "CLASS_NUMBER": 6,
@@ -3153,7 +3153,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5447,
+    "WAFER_ID": 316,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 150,
     "CLASS_NUMBER": 6,
@@ -3163,7 +3163,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5448,
+    "WAFER_ID": 317,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 151,
     "CLASS_NUMBER": 6,
@@ -3173,7 +3173,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5449,
+    "WAFER_ID": 318,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 157,
     "CLASS_NUMBER": 6,
@@ -3183,7 +3183,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5450,
+    "WAFER_ID": 319,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 161,
     "CLASS_NUMBER": 6,
@@ -3193,7 +3193,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5451,
+    "WAFER_ID": 320,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 164,
     "CLASS_NUMBER": 6,
@@ -3203,7 +3203,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5452,
+    "WAFER_ID": 321,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 167,
     "CLASS_NUMBER": 6,
@@ -3213,7 +3213,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5453,
+    "WAFER_ID": 322,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 171,
     "CLASS_NUMBER": 6,
@@ -3223,7 +3223,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5454,
+    "WAFER_ID": 323,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 175,
     "CLASS_NUMBER": 6,
@@ -3233,7 +3233,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5455,
+    "WAFER_ID": 324,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 176,
     "CLASS_NUMBER": 6,
@@ -3243,7 +3243,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5456,
+    "WAFER_ID": 325,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 177,
     "CLASS_NUMBER": 6,
@@ -3253,7 +3253,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5457,
+    "WAFER_ID": 326,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 182,
     "CLASS_NUMBER": 6,
@@ -3263,7 +3263,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5458,
+    "WAFER_ID": 327,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 184,
     "CLASS_NUMBER": 6,
@@ -3273,7 +3273,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5459,
+    "WAFER_ID": 328,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 186,
     "CLASS_NUMBER": 6,
@@ -3283,7 +3283,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5460,
+    "WAFER_ID": 329,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 187,
     "CLASS_NUMBER": 6,
@@ -3293,7 +3293,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5461,
+    "WAFER_ID": 330,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 190,
     "CLASS_NUMBER": 6,
@@ -3303,7 +3303,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5462,
+    "WAFER_ID": 331,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 192,
     "CLASS_NUMBER": 6,
@@ -3313,7 +3313,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5463,
+    "WAFER_ID": 332,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 193,
     "CLASS_NUMBER": 6,
@@ -3323,7 +3323,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5464,
+    "WAFER_ID": 333,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 201,
     "CLASS_NUMBER": 6,
@@ -3333,7 +3333,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5465,
+    "WAFER_ID": 334,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 204,
     "CLASS_NUMBER": 6,
@@ -3343,7 +3343,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5466,
+    "WAFER_ID": 335,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 205,
     "CLASS_NUMBER": 6,
@@ -3353,7 +3353,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5467,
+    "WAFER_ID": 336,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 210,
     "CLASS_NUMBER": 6,
@@ -3363,7 +3363,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5468,
+    "WAFER_ID": 337,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 211,
     "CLASS_NUMBER": 6,
@@ -3373,7 +3373,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5469,
+    "WAFER_ID": 338,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 229,
     "CLASS_NUMBER": 6,
@@ -3383,7 +3383,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5470,
+    "WAFER_ID": 339,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 235,
     "CLASS_NUMBER": 6,
@@ -3393,7 +3393,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5471,
+    "WAFER_ID": 340,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 236,
     "CLASS_NUMBER": 6,
@@ -3403,7 +3403,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5757,
+    "WAFER_ID": 341,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1,
     "CLASS_NUMBER": 6,
@@ -3413,7 +3413,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5758,
+    "WAFER_ID": 342,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2,
     "CLASS_NUMBER": 6,
@@ -3423,7 +3423,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5759,
+    "WAFER_ID": 343,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 3,
     "CLASS_NUMBER": 299,
@@ -3433,7 +3433,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5760,
+    "WAFER_ID": 344,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 5,
     "CLASS_NUMBER": 41,
@@ -3443,7 +3443,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5761,
+    "WAFER_ID": 345,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 6,
     "CLASS_NUMBER": 299,
@@ -3453,7 +3453,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5762,
+    "WAFER_ID": 346,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 7,
     "CLASS_NUMBER": 6,
@@ -3463,7 +3463,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5763,
+    "WAFER_ID": 347,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 8,
     "CLASS_NUMBER": 2,
@@ -3473,7 +3473,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5764,
+    "WAFER_ID": 348,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 9,
     "CLASS_NUMBER": 299,
@@ -3483,7 +3483,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5765,
+    "WAFER_ID": 349,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 10,
     "CLASS_NUMBER": 6,
@@ -3493,7 +3493,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5766,
+    "WAFER_ID": 350,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 11,
     "CLASS_NUMBER": 6,
@@ -3503,7 +3503,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5767,
+    "WAFER_ID": 351,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 12,
     "CLASS_NUMBER": 6,
@@ -3513,7 +3513,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5768,
+    "WAFER_ID": 352,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 13,
     "CLASS_NUMBER": 6,
@@ -3523,7 +3523,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5769,
+    "WAFER_ID": 353,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 14,
     "CLASS_NUMBER": 6,
@@ -3533,7 +3533,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5770,
+    "WAFER_ID": 354,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 15,
     "CLASS_NUMBER": 6,
@@ -3543,7 +3543,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5771,
+    "WAFER_ID": 355,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 17,
     "CLASS_NUMBER": 6,
@@ -3553,7 +3553,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5772,
+    "WAFER_ID": 356,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 18,
     "CLASS_NUMBER": 6,
@@ -3563,7 +3563,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5773,
+    "WAFER_ID": 357,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 22,
     "CLASS_NUMBER": 41,
@@ -3573,7 +3573,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5774,
+    "WAFER_ID": 358,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 23,
     "CLASS_NUMBER": 6,
@@ -3583,7 +3583,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5775,
+    "WAFER_ID": 359,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 24,
     "CLASS_NUMBER": 6,
@@ -3593,7 +3593,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5776,
+    "WAFER_ID": 360,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 25,
     "CLASS_NUMBER": 41,
@@ -3603,7 +3603,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5777,
+    "WAFER_ID": 361,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 26,
     "CLASS_NUMBER": 299,
@@ -3613,7 +3613,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5778,
+    "WAFER_ID": 362,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 27,
     "CLASS_NUMBER": 6,
@@ -3623,7 +3623,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5779,
+    "WAFER_ID": 363,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 40,
     "CLASS_NUMBER": 6,
@@ -3633,7 +3633,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5780,
+    "WAFER_ID": 364,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 41,
     "CLASS_NUMBER": 6,
@@ -3643,7 +3643,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5781,
+    "WAFER_ID": 365,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 42,
     "CLASS_NUMBER": 6,
@@ -3653,7 +3653,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5782,
+    "WAFER_ID": 366,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 43,
     "CLASS_NUMBER": 9,
@@ -3663,7 +3663,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5783,
+    "WAFER_ID": 367,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 45,
     "CLASS_NUMBER": 299,
@@ -3673,7 +3673,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5784,
+    "WAFER_ID": 368,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 46,
     "CLASS_NUMBER": 299,
@@ -3683,7 +3683,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5785,
+    "WAFER_ID": 369,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 47,
     "CLASS_NUMBER": 299,
@@ -3693,7 +3693,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5786,
+    "WAFER_ID": 370,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 48,
     "CLASS_NUMBER": 6,
@@ -3703,7 +3703,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5787,
+    "WAFER_ID": 371,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 51,
     "CLASS_NUMBER": 6,
@@ -3713,7 +3713,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5788,
+    "WAFER_ID": 372,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 61,
     "CLASS_NUMBER": 6,
@@ -3723,7 +3723,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5789,
+    "WAFER_ID": 373,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 65,
     "CLASS_NUMBER": 6,
@@ -3733,7 +3733,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5790,
+    "WAFER_ID": 374,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 69,
     "CLASS_NUMBER": 299,
@@ -3743,7 +3743,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5791,
+    "WAFER_ID": 375,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 70,
     "CLASS_NUMBER": 41,
@@ -3753,7 +3753,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5792,
+    "WAFER_ID": 376,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 72,
     "CLASS_NUMBER": 41,
@@ -3763,7 +3763,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5793,
+    "WAFER_ID": 377,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 73,
     "CLASS_NUMBER": 6,
@@ -3773,7 +3773,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5794,
+    "WAFER_ID": 378,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 74,
     "CLASS_NUMBER": 6,
@@ -3783,7 +3783,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5795,
+    "WAFER_ID": 379,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 76,
     "CLASS_NUMBER": 299,
@@ -3793,7 +3793,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5796,
+    "WAFER_ID": 380,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 78,
     "CLASS_NUMBER": 299,
@@ -3803,7 +3803,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5797,
+    "WAFER_ID": 381,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 80,
     "CLASS_NUMBER": 6,
@@ -3813,7 +3813,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5798,
+    "WAFER_ID": 382,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 81,
     "CLASS_NUMBER": 41,
@@ -3823,7 +3823,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5799,
+    "WAFER_ID": 383,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 82,
     "CLASS_NUMBER": 299,
@@ -3833,7 +3833,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5800,
+    "WAFER_ID": 384,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 83,
     "CLASS_NUMBER": 6,
@@ -3843,7 +3843,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5801,
+    "WAFER_ID": 385,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 84,
     "CLASS_NUMBER": 6,
@@ -3853,7 +3853,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5802,
+    "WAFER_ID": 386,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 88,
     "CLASS_NUMBER": 6,
@@ -3863,7 +3863,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5803,
+    "WAFER_ID": 387,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 90,
     "CLASS_NUMBER": 299,
@@ -3873,7 +3873,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5804,
+    "WAFER_ID": 388,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 92,
     "CLASS_NUMBER": 299,
@@ -3883,7 +3883,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5805,
+    "WAFER_ID": 389,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 93,
     "CLASS_NUMBER": 6,
@@ -3893,7 +3893,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5806,
+    "WAFER_ID": 390,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 94,
     "CLASS_NUMBER": 6,
@@ -3903,7 +3903,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5807,
+    "WAFER_ID": 391,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1,
     "CLASS_NUMBER": 41,
@@ -3913,7 +3913,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5808,
+    "WAFER_ID": 392,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2,
     "CLASS_NUMBER": 41,
@@ -3923,7 +3923,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5809,
+    "WAFER_ID": 393,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 3,
     "CLASS_NUMBER": 6,
@@ -3933,7 +3933,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5810,
+    "WAFER_ID": 394,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 4,
     "CLASS_NUMBER": 41,
@@ -3943,7 +3943,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5811,
+    "WAFER_ID": 395,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 5,
     "CLASS_NUMBER": 2,
@@ -3953,7 +3953,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5812,
+    "WAFER_ID": 396,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 7,
     "CLASS_NUMBER": 6,
@@ -3963,7 +3963,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5813,
+    "WAFER_ID": 397,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 9,
     "CLASS_NUMBER": 6,
@@ -3973,7 +3973,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5814,
+    "WAFER_ID": 398,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 10,
     "CLASS_NUMBER": 41,
@@ -3983,7 +3983,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5815,
+    "WAFER_ID": 399,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 12,
     "CLASS_NUMBER": 6,
@@ -3993,7 +3993,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5816,
+    "WAFER_ID": 400,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 13,
     "CLASS_NUMBER": 6,
@@ -4003,7 +4003,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5817,
+    "WAFER_ID": 401,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 15,
     "CLASS_NUMBER": 9,
@@ -4013,7 +4013,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5818,
+    "WAFER_ID": 402,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 16,
     "CLASS_NUMBER": 299,
@@ -4023,7 +4023,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5819,
+    "WAFER_ID": 403,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 17,
     "CLASS_NUMBER": 6,
@@ -4033,7 +4033,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5820,
+    "WAFER_ID": 404,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 18,
     "CLASS_NUMBER": 6,
@@ -4043,7 +4043,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5821,
+    "WAFER_ID": 405,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 20,
     "CLASS_NUMBER": 6,
@@ -4053,7 +4053,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5822,
+    "WAFER_ID": 406,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 24,
     "CLASS_NUMBER": 41,
@@ -4063,7 +4063,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5823,
+    "WAFER_ID": 407,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 26,
     "CLASS_NUMBER": 299,
@@ -4073,7 +4073,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5824,
+    "WAFER_ID": 408,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 31,
     "CLASS_NUMBER": 6,
@@ -4083,7 +4083,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5825,
+    "WAFER_ID": 409,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 48,
     "CLASS_NUMBER": 6,
@@ -4093,7 +4093,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5826,
+    "WAFER_ID": 410,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 51,
     "CLASS_NUMBER": 2,
@@ -4103,7 +4103,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5827,
+    "WAFER_ID": 411,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 52,
     "CLASS_NUMBER": 6,
@@ -4113,7 +4113,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5828,
+    "WAFER_ID": 412,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 53,
     "CLASS_NUMBER": 6,
@@ -4123,7 +4123,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5829,
+    "WAFER_ID": 413,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 54,
     "CLASS_NUMBER": 41,
@@ -4133,7 +4133,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5830,
+    "WAFER_ID": 414,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 55,
     "CLASS_NUMBER": 41,
@@ -4143,7 +4143,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5831,
+    "WAFER_ID": 415,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 57,
     "CLASS_NUMBER": 41,
@@ -4153,7 +4153,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5832,
+    "WAFER_ID": 416,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 58,
     "CLASS_NUMBER": 6,
@@ -4163,7 +4163,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5833,
+    "WAFER_ID": 417,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 71,
     "CLASS_NUMBER": 9,
@@ -4173,7 +4173,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5834,
+    "WAFER_ID": 418,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 83,
     "CLASS_NUMBER": 6,
@@ -4183,7 +4183,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5835,
+    "WAFER_ID": 419,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 84,
     "CLASS_NUMBER": 6,
@@ -4193,7 +4193,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5836,
+    "WAFER_ID": 420,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 85,
     "CLASS_NUMBER": 41,
@@ -4203,7 +4203,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5837,
+    "WAFER_ID": 421,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 105,
     "CLASS_NUMBER": 6,
@@ -4213,7 +4213,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5838,
+    "WAFER_ID": 422,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 117,
     "CLASS_NUMBER": 6,
@@ -4223,7 +4223,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5839,
+    "WAFER_ID": 423,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 125,
     "CLASS_NUMBER": 6,
@@ -4233,7 +4233,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5840,
+    "WAFER_ID": 424,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 127,
     "CLASS_NUMBER": 6,
@@ -4243,7 +4243,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5841,
+    "WAFER_ID": 425,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 129,
     "CLASS_NUMBER": 6,
@@ -4253,7 +4253,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5842,
+    "WAFER_ID": 426,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 131,
     "CLASS_NUMBER": 41,
@@ -4263,7 +4263,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5843,
+    "WAFER_ID": 427,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 133,
     "CLASS_NUMBER": 41,
@@ -4273,7 +4273,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5844,
+    "WAFER_ID": 428,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 143,
     "CLASS_NUMBER": 299,
@@ -4283,7 +4283,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5845,
+    "WAFER_ID": 429,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 144,
     "CLASS_NUMBER": 299,
@@ -4293,7 +4293,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5846,
+    "WAFER_ID": 430,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 145,
     "CLASS_NUMBER": 6,
@@ -4303,7 +4303,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5847,
+    "WAFER_ID": 431,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 148,
     "CLASS_NUMBER": 6,
@@ -4313,7 +4313,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5848,
+    "WAFER_ID": 432,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 149,
     "CLASS_NUMBER": 6,
@@ -4323,7 +4323,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5849,
+    "WAFER_ID": 433,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 150,
     "CLASS_NUMBER": 2,
@@ -4333,7 +4333,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 5850,
+    "WAFER_ID": 434,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 152,
     "CLASS_NUMBER": 2,
@@ -4343,7 +4343,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6001,
+    "WAFER_ID": 435,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1,
     "CLASS_NUMBER": 41,
@@ -4353,7 +4353,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6002,
+    "WAFER_ID": 436,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2,
     "CLASS_NUMBER": 41,
@@ -4363,7 +4363,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6003,
+    "WAFER_ID": 437,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 3,
     "CLASS_NUMBER": 41,
@@ -4373,7 +4373,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6004,
+    "WAFER_ID": 438,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 5,
     "CLASS_NUMBER": 41,
@@ -4383,7 +4383,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6005,
+    "WAFER_ID": 439,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 6,
     "CLASS_NUMBER": 41,
@@ -4393,7 +4393,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6006,
+    "WAFER_ID": 440,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 8,
     "CLASS_NUMBER": 6,
@@ -4403,7 +4403,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6007,
+    "WAFER_ID": 441,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 9,
     "CLASS_NUMBER": 2,
@@ -4413,7 +4413,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6008,
+    "WAFER_ID": 442,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 10,
     "CLASS_NUMBER": 6,
@@ -4423,7 +4423,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6009,
+    "WAFER_ID": 443,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 11,
     "CLASS_NUMBER": 41,
@@ -4433,7 +4433,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6010,
+    "WAFER_ID": 444,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 12,
     "CLASS_NUMBER": 41,
@@ -4443,7 +4443,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6011,
+    "WAFER_ID": 445,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 13,
     "CLASS_NUMBER": 41,
@@ -4453,7 +4453,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6012,
+    "WAFER_ID": 446,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 170,
     "CLASS_NUMBER": 6,
@@ -4463,7 +4463,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6013,
+    "WAFER_ID": 447,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 217,
     "CLASS_NUMBER": 6,
@@ -4473,7 +4473,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6014,
+    "WAFER_ID": 448,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 228,
     "CLASS_NUMBER": 6,
@@ -4483,7 +4483,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6015,
+    "WAFER_ID": 449,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 230,
     "CLASS_NUMBER": 6,
@@ -4493,7 +4493,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6016,
+    "WAFER_ID": 450,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 231,
     "CLASS_NUMBER": 6,
@@ -4503,7 +4503,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6017,
+    "WAFER_ID": 451,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 234,
     "CLASS_NUMBER": 6,
@@ -4513,7 +4513,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6018,
+    "WAFER_ID": 452,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 235,
     "CLASS_NUMBER": 41,
@@ -4523,7 +4523,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6019,
+    "WAFER_ID": 453,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 236,
     "CLASS_NUMBER": 6,
@@ -4533,7 +4533,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6020,
+    "WAFER_ID": 454,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 243,
     "CLASS_NUMBER": 6,
@@ -4543,7 +4543,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6021,
+    "WAFER_ID": 455,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 250,
     "CLASS_NUMBER": 41,
@@ -4553,7 +4553,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6022,
+    "WAFER_ID": 456,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 285,
     "CLASS_NUMBER": 41,
@@ -4563,7 +4563,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6023,
+    "WAFER_ID": 457,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 286,
     "CLASS_NUMBER": 2,
@@ -4573,7 +4573,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6024,
+    "WAFER_ID": 458,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 290,
     "CLASS_NUMBER": 6,
@@ -4583,7 +4583,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6025,
+    "WAFER_ID": 459,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 292,
     "CLASS_NUMBER": 6,
@@ -4593,7 +4593,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6026,
+    "WAFER_ID": 460,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 294,
     "CLASS_NUMBER": 6,
@@ -4603,7 +4603,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6027,
+    "WAFER_ID": 461,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1,
     "CLASS_NUMBER": 41,
@@ -4613,7 +4613,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6028,
+    "WAFER_ID": 462,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2,
     "CLASS_NUMBER": 41,
@@ -4623,7 +4623,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6029,
+    "WAFER_ID": 463,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 63,
     "CLASS_NUMBER": 41,
@@ -4633,7 +4633,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6030,
+    "WAFER_ID": 464,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 64,
     "CLASS_NUMBER": 52,
@@ -4643,7 +4643,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6031,
+    "WAFER_ID": 465,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 66,
     "CLASS_NUMBER": 6,
@@ -4653,7 +4653,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6032,
+    "WAFER_ID": 466,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 67,
     "CLASS_NUMBER": 1,
@@ -4663,7 +4663,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6033,
+    "WAFER_ID": 467,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 70,
     "CLASS_NUMBER": 6,
@@ -4673,7 +4673,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6034,
+    "WAFER_ID": 468,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 72,
     "CLASS_NUMBER": 41,
@@ -4683,7 +4683,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6035,
+    "WAFER_ID": 469,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 125,
     "CLASS_NUMBER": 41,
@@ -4693,7 +4693,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6036,
+    "WAFER_ID": 470,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 167,
     "CLASS_NUMBER": 6,
@@ -4703,7 +4703,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6037,
+    "WAFER_ID": 471,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 174,
     "CLASS_NUMBER": 6,
@@ -4713,7 +4713,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6038,
+    "WAFER_ID": 472,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 261,
     "CLASS_NUMBER": 6,
@@ -4723,7 +4723,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6039,
+    "WAFER_ID": 473,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 263,
     "CLASS_NUMBER": 6,
@@ -4733,7 +4733,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6040,
+    "WAFER_ID": 474,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 267,
     "CLASS_NUMBER": 6,
@@ -4743,7 +4743,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6041,
+    "WAFER_ID": 475,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 271,
     "CLASS_NUMBER": 6,
@@ -4753,7 +4753,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6042,
+    "WAFER_ID": 476,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 536,
     "CLASS_NUMBER": 6,
@@ -4763,7 +4763,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6043,
+    "WAFER_ID": 477,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 539,
     "CLASS_NUMBER": 6,
@@ -4773,7 +4773,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6044,
+    "WAFER_ID": 478,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 540,
     "CLASS_NUMBER": 6,
@@ -4783,7 +4783,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6045,
+    "WAFER_ID": 479,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 542,
     "CLASS_NUMBER": 6,
@@ -4793,7 +4793,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6046,
+    "WAFER_ID": 480,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 555,
     "CLASS_NUMBER": 6,
@@ -4803,7 +4803,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6047,
+    "WAFER_ID": 481,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 615,
     "CLASS_NUMBER": 6,
@@ -4813,7 +4813,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6048,
+    "WAFER_ID": 482,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 616,
     "CLASS_NUMBER": 6,
@@ -4823,7 +4823,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6049,
+    "WAFER_ID": 483,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 617,
     "CLASS_NUMBER": 6,
@@ -4833,7 +4833,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6050,
+    "WAFER_ID": 484,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 618,
     "CLASS_NUMBER": 41,
@@ -4843,7 +4843,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6051,
+    "WAFER_ID": 485,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 734,
     "CLASS_NUMBER": 6,
@@ -4853,7 +4853,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6171,
+    "WAFER_ID": 486,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1,
     "CLASS_NUMBER": 6,
@@ -4863,7 +4863,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6172,
+    "WAFER_ID": 487,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 3,
     "CLASS_NUMBER": 299,
@@ -4873,7 +4873,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6173,
+    "WAFER_ID": 488,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 4,
     "CLASS_NUMBER": 6,
@@ -4883,7 +4883,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6174,
+    "WAFER_ID": 489,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 6,
     "CLASS_NUMBER": 6,
@@ -4893,7 +4893,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6175,
+    "WAFER_ID": 490,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 7,
     "CLASS_NUMBER": 299,
@@ -4903,7 +4903,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6176,
+    "WAFER_ID": 491,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 9,
     "CLASS_NUMBER": 6,
@@ -4913,7 +4913,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6177,
+    "WAFER_ID": 492,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 10,
     "CLASS_NUMBER": 2,
@@ -4923,7 +4923,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6178,
+    "WAFER_ID": 493,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 13,
     "CLASS_NUMBER": 299,
@@ -4933,7 +4933,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6179,
+    "WAFER_ID": 494,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 14,
     "CLASS_NUMBER": 6,
@@ -4943,7 +4943,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6180,
+    "WAFER_ID": 495,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 15,
     "CLASS_NUMBER": 6,
@@ -4953,7 +4953,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6181,
+    "WAFER_ID": 496,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 24,
     "CLASS_NUMBER": 12,
@@ -4963,7 +4963,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6182,
+    "WAFER_ID": 497,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 25,
     "CLASS_NUMBER": 6,
@@ -4973,7 +4973,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6183,
+    "WAFER_ID": 498,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 29,
     "CLASS_NUMBER": 6,
@@ -4983,7 +4983,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6184,
+    "WAFER_ID": 499,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 38,
     "CLASS_NUMBER": 6,
@@ -4993,7 +4993,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6185,
+    "WAFER_ID": 500,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 39,
     "CLASS_NUMBER": 299,
@@ -5003,7 +5003,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6186,
+    "WAFER_ID": 501,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 40,
     "CLASS_NUMBER": 2,
@@ -5013,7 +5013,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6187,
+    "WAFER_ID": 502,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 41,
     "CLASS_NUMBER": 299,
@@ -5023,7 +5023,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6188,
+    "WAFER_ID": 503,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 42,
     "CLASS_NUMBER": 6,
@@ -5033,7 +5033,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6189,
+    "WAFER_ID": 504,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 45,
     "CLASS_NUMBER": 6,
@@ -5043,7 +5043,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6190,
+    "WAFER_ID": 505,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 150,
     "CLASS_NUMBER": 6,
@@ -5053,7 +5053,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6191,
+    "WAFER_ID": 506,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 159,
     "CLASS_NUMBER": 6,
@@ -5063,7 +5063,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6192,
+    "WAFER_ID": 507,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 163,
     "CLASS_NUMBER": 6,
@@ -5073,7 +5073,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6193,
+    "WAFER_ID": 508,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 165,
     "CLASS_NUMBER": 6,
@@ -5083,7 +5083,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6194,
+    "WAFER_ID": 509,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 166,
     "CLASS_NUMBER": 6,
@@ -5093,7 +5093,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6195,
+    "WAFER_ID": 510,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 168,
     "CLASS_NUMBER": 6,
@@ -5103,7 +5103,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6196,
+    "WAFER_ID": 511,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 169,
     "CLASS_NUMBER": 299,
@@ -5113,7 +5113,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6197,
+    "WAFER_ID": 512,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 170,
     "CLASS_NUMBER": 6,
@@ -5123,7 +5123,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6198,
+    "WAFER_ID": 513,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 172,
     "CLASS_NUMBER": 6,
@@ -5133,7 +5133,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6199,
+    "WAFER_ID": 514,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 173,
     "CLASS_NUMBER": 6,
@@ -5143,7 +5143,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6200,
+    "WAFER_ID": 515,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 174,
     "CLASS_NUMBER": 6,
@@ -5153,7 +5153,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6201,
+    "WAFER_ID": 516,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 176,
     "CLASS_NUMBER": 6,
@@ -5163,7 +5163,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6202,
+    "WAFER_ID": 517,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 177,
     "CLASS_NUMBER": 6,
@@ -5173,7 +5173,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6203,
+    "WAFER_ID": 518,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 184,
     "CLASS_NUMBER": 299,
@@ -5183,7 +5183,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6204,
+    "WAFER_ID": 519,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 186,
     "CLASS_NUMBER": 299,
@@ -5193,7 +5193,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6205,
+    "WAFER_ID": 520,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 187,
     "CLASS_NUMBER": 299,
@@ -5203,7 +5203,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6206,
+    "WAFER_ID": 521,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 190,
     "CLASS_NUMBER": 6,
@@ -5213,7 +5213,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6207,
+    "WAFER_ID": 522,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 847,
     "CLASS_NUMBER": 41,
@@ -5223,7 +5223,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6208,
+    "WAFER_ID": 523,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 3,
     "CLASS_NUMBER": 6,
@@ -5233,7 +5233,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6209,
+    "WAFER_ID": 524,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 7,
     "CLASS_NUMBER": 18,
@@ -5243,7 +5243,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6210,
+    "WAFER_ID": 525,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 9,
     "CLASS_NUMBER": 6,
@@ -5253,7 +5253,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6211,
+    "WAFER_ID": 526,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 11,
     "CLASS_NUMBER": 299,
@@ -5263,7 +5263,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6212,
+    "WAFER_ID": 527,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 12,
     "CLASS_NUMBER": 299,
@@ -5273,7 +5273,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6213,
+    "WAFER_ID": 528,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 13,
     "CLASS_NUMBER": 299,
@@ -5283,7 +5283,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6214,
+    "WAFER_ID": 529,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 14,
     "CLASS_NUMBER": 6,
@@ -5293,7 +5293,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6215,
+    "WAFER_ID": 530,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 15,
     "CLASS_NUMBER": 9,
@@ -5303,7 +5303,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6216,
+    "WAFER_ID": 531,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 18,
     "CLASS_NUMBER": 6,
@@ -5313,7 +5313,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6217,
+    "WAFER_ID": 532,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 19,
     "CLASS_NUMBER": 6,
@@ -5323,7 +5323,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6218,
+    "WAFER_ID": 533,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 21,
     "CLASS_NUMBER": 6,
@@ -5333,7 +5333,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6219,
+    "WAFER_ID": 534,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 22,
     "CLASS_NUMBER": 6,
@@ -5343,7 +5343,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6220,
+    "WAFER_ID": 535,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 26,
     "CLASS_NUMBER": 6,
@@ -5353,7 +5353,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6221,
+    "WAFER_ID": 536,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 29,
     "CLASS_NUMBER": 6,
@@ -5363,7 +5363,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6222,
+    "WAFER_ID": 537,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 31,
     "CLASS_NUMBER": 6,
@@ -5373,7 +5373,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6223,
+    "WAFER_ID": 538,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 32,
     "CLASS_NUMBER": 6,
@@ -5383,7 +5383,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6224,
+    "WAFER_ID": 539,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 57,
     "CLASS_NUMBER": 6,
@@ -5393,7 +5393,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6225,
+    "WAFER_ID": 540,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 59,
     "CLASS_NUMBER": 6,
@@ -5403,7 +5403,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6226,
+    "WAFER_ID": 541,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 64,
     "CLASS_NUMBER": 6,
@@ -5413,7 +5413,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6227,
+    "WAFER_ID": 542,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 65,
     "CLASS_NUMBER": 6,
@@ -5423,7 +5423,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6228,
+    "WAFER_ID": 543,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 140,
     "CLASS_NUMBER": 6,
@@ -5433,7 +5433,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6229,
+    "WAFER_ID": 544,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 148,
     "CLASS_NUMBER": 6,
@@ -5443,7 +5443,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6230,
+    "WAFER_ID": 545,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 231,
     "CLASS_NUMBER": 6,
@@ -5453,7 +5453,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6231,
+    "WAFER_ID": 546,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 232,
     "CLASS_NUMBER": 2,
@@ -5463,7 +5463,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6232,
+    "WAFER_ID": 547,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 233,
     "CLASS_NUMBER": 6,
@@ -5473,7 +5473,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6233,
+    "WAFER_ID": 548,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 235,
     "CLASS_NUMBER": 6,
@@ -5483,7 +5483,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6234,
+    "WAFER_ID": 549,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 239,
     "CLASS_NUMBER": 6,
@@ -5493,7 +5493,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6235,
+    "WAFER_ID": 550,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1,
     "CLASS_NUMBER": 2,
@@ -5503,7 +5503,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6236,
+    "WAFER_ID": 551,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 4,
     "CLASS_NUMBER": 6,
@@ -5513,7 +5513,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6237,
+    "WAFER_ID": 552,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 7,
     "CLASS_NUMBER": 299,
@@ -5523,7 +5523,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6238,
+    "WAFER_ID": 553,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 8,
     "CLASS_NUMBER": 6,
@@ -5533,7 +5533,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6239,
+    "WAFER_ID": 554,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 9,
     "CLASS_NUMBER": 6,
@@ -5543,7 +5543,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6240,
+    "WAFER_ID": 555,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 11,
     "CLASS_NUMBER": 6,
@@ -5553,7 +5553,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6241,
+    "WAFER_ID": 556,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 13,
     "CLASS_NUMBER": 2,
@@ -5563,7 +5563,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6242,
+    "WAFER_ID": 557,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 14,
     "CLASS_NUMBER": 2,
@@ -5573,7 +5573,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6243,
+    "WAFER_ID": 558,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 15,
     "CLASS_NUMBER": 299,
@@ -5583,7 +5583,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6244,
+    "WAFER_ID": 559,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 16,
     "CLASS_NUMBER": 6,
@@ -5593,7 +5593,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6245,
+    "WAFER_ID": 560,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 59,
     "CLASS_NUMBER": 6,
@@ -5603,7 +5603,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6246,
+    "WAFER_ID": 561,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 539,
     "CLASS_NUMBER": 6,
@@ -5613,7 +5613,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6247,
+    "WAFER_ID": 562,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 542,
     "CLASS_NUMBER": 6,
@@ -5623,7 +5623,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6248,
+    "WAFER_ID": 563,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 593,
     "CLASS_NUMBER": 41,
@@ -5633,7 +5633,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6249,
+    "WAFER_ID": 564,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 745,
     "CLASS_NUMBER": 6,
@@ -5643,7 +5643,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6250,
+    "WAFER_ID": 565,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 870,
     "CLASS_NUMBER": 41,
@@ -5653,7 +5653,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6251,
+    "WAFER_ID": 566,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1194,
     "CLASS_NUMBER": 41,
@@ -5663,7 +5663,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6252,
+    "WAFER_ID": 567,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1195,
     "CLASS_NUMBER": 6,
@@ -5673,7 +5673,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6253,
+    "WAFER_ID": 568,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1196,
     "CLASS_NUMBER": 41,
@@ -5683,7 +5683,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6254,
+    "WAFER_ID": 569,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1207,
     "CLASS_NUMBER": 6,
@@ -5693,7 +5693,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6255,
+    "WAFER_ID": 570,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1208,
     "CLASS_NUMBER": 41,
@@ -5703,7 +5703,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6256,
+    "WAFER_ID": 571,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1209,
     "CLASS_NUMBER": 41,
@@ -5713,7 +5713,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6257,
+    "WAFER_ID": 572,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1271,
     "CLASS_NUMBER": 18,
@@ -5723,7 +5723,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6258,
+    "WAFER_ID": 573,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1632,
     "CLASS_NUMBER": 6,
@@ -5733,7 +5733,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6259,
+    "WAFER_ID": 574,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1733,
     "CLASS_NUMBER": 6,
@@ -5743,7 +5743,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6260,
+    "WAFER_ID": 575,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2059,
     "CLASS_NUMBER": 6,
@@ -5753,7 +5753,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6261,
+    "WAFER_ID": 576,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2060,
     "CLASS_NUMBER": 6,
@@ -5763,7 +5763,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6262,
+    "WAFER_ID": 577,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2062,
     "CLASS_NUMBER": 6,
@@ -5773,7 +5773,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6263,
+    "WAFER_ID": 578,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2483,
     "CLASS_NUMBER": 6,
@@ -5783,7 +5783,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6264,
+    "WAFER_ID": 579,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2488,
     "CLASS_NUMBER": 6,
@@ -5793,7 +5793,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6265,
+    "WAFER_ID": 580,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2489,
     "CLASS_NUMBER": 299,
@@ -5803,7 +5803,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6266,
+    "WAFER_ID": 581,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2490,
     "CLASS_NUMBER": 41,
@@ -5813,7 +5813,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6267,
+    "WAFER_ID": 582,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2491,
     "CLASS_NUMBER": 6,
@@ -5823,7 +5823,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6268,
+    "WAFER_ID": 583,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2492,
     "CLASS_NUMBER": 6,
@@ -5833,7 +5833,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6269,
+    "WAFER_ID": 584,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2569,
     "CLASS_NUMBER": 6,
@@ -5843,7 +5843,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6270,
+    "WAFER_ID": 585,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2575,
     "CLASS_NUMBER": 299,
@@ -5853,7 +5853,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6271,
+    "WAFER_ID": 586,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2594,
     "CLASS_NUMBER": 6,
@@ -5863,7 +5863,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6272,
+    "WAFER_ID": 587,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 2595,
     "CLASS_NUMBER": 299,
@@ -5873,7 +5873,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6273,
+    "WAFER_ID": 588,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 4,
     "CLASS_NUMBER": 6,
@@ -5883,7 +5883,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6274,
+    "WAFER_ID": 589,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 22,
     "CLASS_NUMBER": 6,
@@ -5893,7 +5893,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6275,
+    "WAFER_ID": 590,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 72,
     "CLASS_NUMBER": 6,
@@ -5903,7 +5903,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6276,
+    "WAFER_ID": 591,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 205,
     "CLASS_NUMBER": 6,
@@ -5913,7 +5913,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6277,
+    "WAFER_ID": 592,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 306,
     "CLASS_NUMBER": 6,
@@ -5923,7 +5923,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6278,
+    "WAFER_ID": 593,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 371,
     "CLASS_NUMBER": 6,
@@ -5933,7 +5933,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6279,
+    "WAFER_ID": 594,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 377,
     "CLASS_NUMBER": 6,
@@ -5943,7 +5943,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6280,
+    "WAFER_ID": 595,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 379,
     "CLASS_NUMBER": 6,
@@ -5953,7 +5953,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6281,
+    "WAFER_ID": 596,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 381,
     "CLASS_NUMBER": 6,
@@ -5963,7 +5963,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6282,
+    "WAFER_ID": 597,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 382,
     "CLASS_NUMBER": 6,
@@ -5973,7 +5973,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6283,
+    "WAFER_ID": 598,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 384,
     "CLASS_NUMBER": 6,
@@ -5983,7 +5983,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6284,
+    "WAFER_ID": 599,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 386,
     "CLASS_NUMBER": 6,
@@ -5993,7 +5993,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6285,
+    "WAFER_ID": 600,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 388,
     "CLASS_NUMBER": 6,
@@ -6003,7 +6003,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6286,
+    "WAFER_ID": 601,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 391,
     "CLASS_NUMBER": 6,
@@ -6013,7 +6013,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6287,
+    "WAFER_ID": 602,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 392,
     "CLASS_NUMBER": 6,
@@ -6023,7 +6023,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6288,
+    "WAFER_ID": 603,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 411,
     "CLASS_NUMBER": 6,
@@ -6033,7 +6033,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6289,
+    "WAFER_ID": 604,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 433,
     "CLASS_NUMBER": 6,
@@ -6043,7 +6043,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6290,
+    "WAFER_ID": 605,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 459,
     "CLASS_NUMBER": 299,
@@ -6053,7 +6053,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6291,
+    "WAFER_ID": 606,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 462,
     "CLASS_NUMBER": 299,
@@ -6063,7 +6063,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6292,
+    "WAFER_ID": 607,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 464,
     "CLASS_NUMBER": 299,
@@ -6073,7 +6073,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6293,
+    "WAFER_ID": 608,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 468,
     "CLASS_NUMBER": 6,
@@ -6083,7 +6083,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6294,
+    "WAFER_ID": 609,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 842,
     "CLASS_NUMBER": 6,
@@ -6093,7 +6093,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6295,
+    "WAFER_ID": 610,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 849,
     "CLASS_NUMBER": 6,
@@ -6103,7 +6103,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6296,
+    "WAFER_ID": 611,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 853,
     "CLASS_NUMBER": 6,
@@ -6113,7 +6113,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6297,
+    "WAFER_ID": 612,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 862,
     "CLASS_NUMBER": 6,
@@ -6123,7 +6123,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6298,
+    "WAFER_ID": 613,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 876,
     "CLASS_NUMBER": 6,
@@ -6133,7 +6133,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6299,
+    "WAFER_ID": 614,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 878,
     "CLASS_NUMBER": 6,
@@ -6143,7 +6143,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6300,
+    "WAFER_ID": 615,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 879,
     "CLASS_NUMBER": 6,
@@ -6153,7 +6153,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6301,
+    "WAFER_ID": 616,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 973,
     "CLASS_NUMBER": 6,
@@ -6163,7 +6163,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6302,
+    "WAFER_ID": 617,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1259,
     "CLASS_NUMBER": 6,
@@ -6173,7 +6173,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6303,
+    "WAFER_ID": 618,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1263,
     "CLASS_NUMBER": 6,
@@ -6183,7 +6183,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6304,
+    "WAFER_ID": 619,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1266,
     "CLASS_NUMBER": 6,
@@ -6193,7 +6193,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6305,
+    "WAFER_ID": 620,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1267,
     "CLASS_NUMBER": 6,
@@ -6203,7 +6203,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6306,
+    "WAFER_ID": 621,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1268,
     "CLASS_NUMBER": 6,
@@ -6213,7 +6213,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6307,
+    "WAFER_ID": 622,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1269,
     "CLASS_NUMBER": 47,
@@ -6223,7 +6223,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6308,
+    "WAFER_ID": 623,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1270,
     "CLASS_NUMBER": 299,
@@ -6233,7 +6233,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6309,
+    "WAFER_ID": 624,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1271,
     "CLASS_NUMBER": 6,
@@ -6243,7 +6243,7 @@ var data=[
   {
     "LAYER_STEP_ID": "layerA",
     "LOT_ID": "LOT",
-    "WAFER_ID": 6310,
+    "WAFER_ID": 625,
     "THREE_DIGIT_WAFER": 3,
     "DEFECT_ID": 1272,
     "CLASS_NUMBER": 299,

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Defects Error Maps</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+	
+	<script type="text/javascript" src="jquery-1.10.2.min.js"></script> 
+	<script type="text/javascript" src="d3.v3.min.js"></script>
+	<script type="text/javascript" src="data.js"></script>
+	<script type="text/javascript" src="class_codes.js"></script>
+	<script type="text/javascript" src="functions.js"></script>
+
+	
+	<script type="text/javascript">
+	
+		$(function(){
+				
+		})
+		
+	</script>
+
+
+	<script type="text/javascript">
+
+	</script>
+</head>
+<body id='body' online=0 >
+
+<div id="canvas" align='left' >
+
+	
+	<div id="selectors_div" style="padding: 10 0 10 0" >
+		Select Layer<select id="layer_select" onchange="start()" >
+			<option value="blank">select layer</option>
+			<option value="layerA">layerA</option>
+		
+		</select>
+	</div>
+	
+	<div><strong>layer accuracy: </strong><span id="layer_accuracy"></span></div>
+	
+	
+	
+	<h2><div style="padding:1 0 1 0" id="current_defect"></div></h2>
+
+	<svg viewBox="0 0 1500 1500" preserveAspectRatio="xMinYMin meet" >
+		<text x=330 y=20 text-anchor="end" font-weight="bold" >% of mistakes this layer</text>
+		<rect x=340 y=30 width=600 height=4 style="fill:steelblue" ></rect>
+		<text x=340 y="20">0%</text>
+		<text x=490 y="20">25%</text>
+		<text x=640 y="20">50%</text>
+		<text x=790 y="20">75%</text>
+		<text x=940 y="20">100%</text>
+		<defs>
+			<marker id="to_arrow" viewBox="0 0 10 10" refX="1" refY="5" markerUnits="strokeWidth" orient="auto" markerWidth="3" markerHeight="2">
+				<polyline points="0,0 10,5 0,10 1,5" fill="steelblue"></polyline>
+			</marker>
+			<marker id="return_arrow" viewBox="0 0 10 10" refX="1" refY="5" markerUnits="strokeWidth" orient="auto" markerWidth="3" markerHeight="2">
+				<polyline points="0,0 10,5 0,10 1,5" fill="orange"></polyline>
+			</marker>
+			<marker id="grey_arrow" viewBox="0 0 10 10" refX="1" refY="5" markerUnits="strokeWidth" orient="auto" markerWidth="3" markerHeight="2">
+				<polyline points="0,0 10,5 0,10 1,5" fill="grey"></polyline>
+			</marker>
+		</defs>
+		<svg id="svg_canvas">
+		
+		
+		</svg>
+	
+	</svg>
+	
+
+</div>
+<div id="memory_div" style="visibility:hidden" selected_layer='0PLYFC' selected_mode='' selected_shift='all' sort='accuracy' >MEMORY LAYER</div>
+</body>
+</html>

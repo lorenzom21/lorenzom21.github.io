@@ -6250,5 +6250,127 @@ var data=[
     "FINAL_CLASS": 299,
     "INSPECTION_DATE": "10/24/2014 18:32"
   }
+  ,
+  {
+    "LAYER_STEP_ID": "layerA",
+    "LOT_ID": "LOT",
+    "WAFER_ID": 625,
+    "THREE_DIGIT_WAFER": 3,
+    "DEFECT_ID": 1272,
+    "CLASS_NUMBER": 52,
+    "FINAL_CLASS": 2,
+    "INSPECTION_DATE": "10/24/2014 18:32"
+  }
+  ,
+  {
+    "LAYER_STEP_ID": "layerA",
+    "LOT_ID": "LOT",
+    "WAFER_ID": 625,
+    "THREE_DIGIT_WAFER": 3,
+    "DEFECT_ID": 1272,
+    "CLASS_NUMBER": 52,
+    "FINAL_CLASS": 2,
+    "INSPECTION_DATE": "10/24/2014 18:32"
+  }
+  ,
+  {
+    "LAYER_STEP_ID": "layerA",
+    "LOT_ID": "LOT",
+    "WAFER_ID": 625,
+    "THREE_DIGIT_WAFER": 3,
+    "DEFECT_ID": 1272,
+    "CLASS_NUMBER": 52,
+    "FINAL_CLASS": 2,
+    "INSPECTION_DATE": "10/24/2014 18:32"
+  }
+  ,
+  {
+    "LAYER_STEP_ID": "layerA",
+    "LOT_ID": "LOT",
+    "WAFER_ID": 625,
+    "THREE_DIGIT_WAFER": 3,
+    "DEFECT_ID": 1272,
+    "CLASS_NUMBER": 52,
+    "FINAL_CLASS": 2,
+    "INSPECTION_DATE": "10/24/2014 18:32"
+  }
+  ,
+  {
+    "LAYER_STEP_ID": "layerA",
+    "LOT_ID": "LOT",
+    "WAFER_ID": 625,
+    "THREE_DIGIT_WAFER": 3,
+    "DEFECT_ID": 1272,
+    "CLASS_NUMBER": 52,
+    "FINAL_CLASS": 2,
+    "INSPECTION_DATE": "10/24/2014 18:32"
+  }
+  ,
+  {
+    "LAYER_STEP_ID": "layerA",
+    "LOT_ID": "LOT",
+    "WAFER_ID": 625,
+    "THREE_DIGIT_WAFER": 3,
+    "DEFECT_ID": 1272,
+    "CLASS_NUMBER": 52,
+    "FINAL_CLASS": 2,
+    "INSPECTION_DATE": "10/24/2014 18:32"
+  }
+  ,
+  {
+    "LAYER_STEP_ID": "layerA",
+    "LOT_ID": "LOT",
+    "WAFER_ID": 625,
+    "THREE_DIGIT_WAFER": 3,
+    "DEFECT_ID": 1272,
+    "CLASS_NUMBER": 52,
+    "FINAL_CLASS": 2,
+    "INSPECTION_DATE": "10/24/2014 18:32"
+  }
+  ,
+  {
+    "LAYER_STEP_ID": "layerA",
+    "LOT_ID": "LOT",
+    "WAFER_ID": 625,
+    "THREE_DIGIT_WAFER": 3,
+    "DEFECT_ID": 1272,
+    "CLASS_NUMBER": 52,
+    "FINAL_CLASS": 2,
+    "INSPECTION_DATE": "10/24/2014 18:32"
+  }
+  ,
+  {
+    "LAYER_STEP_ID": "layerA",
+    "LOT_ID": "LOT",
+    "WAFER_ID": 625,
+    "THREE_DIGIT_WAFER": 3,
+    "DEFECT_ID": 1272,
+    "CLASS_NUMBER": 52,
+    "FINAL_CLASS": 2,
+    "INSPECTION_DATE": "10/24/2014 18:32"
+  }
+  ,
+  {
+    "LAYER_STEP_ID": "layerA",
+    "LOT_ID": "LOT",
+    "WAFER_ID": 625,
+    "THREE_DIGIT_WAFER": 3,
+    "DEFECT_ID": 1272,
+    "CLASS_NUMBER": 52,
+    "FINAL_CLASS": 2,
+    "INSPECTION_DATE": "10/24/2014 18:32"
+  }
+  ,
+  {
+    "LAYER_STEP_ID": "layerA",
+    "LOT_ID": "LOT",
+    "WAFER_ID": 625,
+    "THREE_DIGIT_WAFER": 3,
+    "DEFECT_ID": 1272,
+    "CLASS_NUMBER": 52,
+    "FINAL_CLASS": 2,
+    "INSPECTION_DATE": "10/24/2014 18:32"
+  }
+  
 ];
 return data;}
